@@ -1,0 +1,11 @@
+fastapi==0.115.*
+uvicorn[standard]==0.34.*
+python-dotenv==1.1.*
+supabase==2.13.*
+anthropic==0.49.*
+openai==1.68.*
+playwright==1.50.*
+python-multipart==0.0.20
+pydantic==2.11.*
+httpx==0.28.*
+pdfplumber==0.11.*
